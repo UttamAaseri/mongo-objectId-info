@@ -5,13 +5,13 @@
 ## Get building blocks of hexadecimal [`mongo objectId`](https://docs.mongodb.com/manual/reference/method/ObjectId/)
 
 ```
-$ npm install --save mongo-objectId-info
+$ npm install --save mongo-objectid-info
 ```
 
 ## Usage
 
 ```js
-var idInfo = require('mongo-objectId-info');
+var idInfo = require('mongo-objectid-info');
 
 var obj =  idInfo.getInfo("507f1f77bcf86cd799439011");
 

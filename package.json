@@ -1,5 +1,5 @@
 {
-  "name": "mongo-objectId-info",
+  "name": "mongo-objectid-info",
   "version": "0.1.0",
   "description": "Get timestamp, machineId, processid and counter parts from mongo objectId",
   "main": "index.js",
