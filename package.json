@@ -1,0 +1,20 @@
+{
+  "name": "mongo-objectId-info",
+  "version": "0.1.0",
+  "description": "Get timestamp, machineId, processid and counter parts from mongo objectId",
+  "main": "index.js",
+  "repository": "UttamAaseri/mongo-objectId-info",
+  "author": {
+    "name": "Uttam Aaseri",
+    "email": "aaseri.uttam@gmail.com"
+  },
+  "keywords": [
+    "mongodb",
+    "objectId",
+    "mongo objectId",
+    "objectId timestamp",
+    "objectId process",
+    "objectId machineId"
+  ],
+  "license": "MIT"
+}
